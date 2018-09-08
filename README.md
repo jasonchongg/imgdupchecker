@@ -2,7 +2,7 @@
 
 ## Purpose 
 
-Needed a simple way to detect duplicate images when working as a Junior Data Scientist at DataProphet. Created a simple python script to do the job. 
+Needed a simple way to detect duplicate images when training computer vision models. Created a simple python script to do the job. 
 
 ## How it works
 
